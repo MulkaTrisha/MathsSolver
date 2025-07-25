@@ -1,0 +1,5 @@
+mediapipe==0.10.21
+numpy>=1.26.0
+opencv-python
+pyttsx3
+Pillow
